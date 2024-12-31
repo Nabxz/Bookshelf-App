@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Bookshelf</string>
+    <string name="loading">Loading</string>
+    <string name="connection_error">Connection Error</string>
+    <string name="retry">Retry</string>
+    <string name="categories">Categories</string>
+    <string name="page_count">"Page Count: "</string>
+    <string name="by">"By "</string>
+    <string name="description">Description</string>
+    <string name="published_date">"Published Date: "</string>
+    <string name="published_by">"Published by: "</string>
+    <string name="share_button">share button</string>
+    <string name="please_select_a_book">Please Select A Book</string>
+</resources>
